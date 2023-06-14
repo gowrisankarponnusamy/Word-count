@@ -25,8 +25,9 @@ with open(n,'r') as f:
         wordslen+=len(words)
 print("Number of wordds:",wordslen)
 ```
-### OUTPUT:
+### FILE CONTENT:
 ![Screenshot (84)](https://github.com/gowrisankarponnusamy/Word-count/assets/119393123/6578d047-088e-4909-a4f0-c39348ca633d)
-
+### OUTPUT:
+![image](https://github.com/gowrisankarponnusamy/Word-count/assets/119393123/8c6fb9cf-d8c9-4720-a765-daa6a734033b)
 ## RESULT:
 Thus the program is written to find the word count from a text.
