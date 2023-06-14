@@ -14,7 +14,7 @@ Finding the length of the words by using len() function.
 Calling the function and printing the number of words.
 
 ## PROGRAM:
-'''
+```
 #Developed By: Gowrisankar.p
 #Register No: 212222230041
 n=input('Enter File name: ')
@@ -24,7 +24,7 @@ with open(n,'r') as f:
         words=line.split()
         wordslen+=len(words)
 print("Number of wordds:",wordslen)
-'''
+```
 ### OUTPUT:
 ![Screenshot (84)](https://github.com/gowrisankarponnusamy/Word-count/assets/119393123/6578d047-088e-4909-a4f0-c39348ca633d)
 
